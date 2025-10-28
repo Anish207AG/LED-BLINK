@@ -52,6 +52,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 <img width="1920" height="1200" alt="Screenshot 2025-10-28 111618" src="https://github.com/user-attachments/assets/8602b781-3689-4c9d-b1df-363a34f20ec3" />
 
 4. Name the project.
+   
    <img width="534" height="596" alt="Screenshot 2025-10-28 111703" src="https://github.com/user-attachments/assets/633e1b72-ac41-4ab9-b070-3fe1620ba980" />
 
 5. The corresponding `.ioc` file will be generated automatically.
@@ -77,7 +78,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 11. Click **Debug** and connect the **STM Nucleo Board**.
    <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/edff6455-9b29-46e3-a507-68d41e150551" />
 
-13. Click **Run** to execute the program.
+12. Click **Run** to execute the program.
     
 ---
 
